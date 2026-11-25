@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+<file>resources/eraser.svg</file>
+<file>resources/picker.svg</file>
+<file>resources/bucket.svg</file>
+<file>resources/selection.svg</file>
+<file>resources/wand.svg</file>
+<file>resources/transform.svg</file>
+<file>resources/pen.svg</file>
+<file>resources/eye.svg</file>
+<file>resources/neye.svg</file>
+<file>resources/lasso.svg</file>
+<file>resources/filters.svg</file>
+<file>resources/delete.svg</file>
+<file>resources/clear.svg</file>
+<file>resources/plus.svg</file>
+<file>resources/up.svg</file>
+<file>resources/down.svg</file>
+<file>resources/undo.svg</file>
+<file>resources/redo.svg</file>
+<file>resources/lock.svg</file>
+<file>resources/unlock.svg</file>
+    </qresource>
+</RCC>
